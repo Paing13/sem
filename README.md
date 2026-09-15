@@ -1,2 +1,3 @@
 This is set methods.
-Ni Hao
+
+![workflow](https://github.com/Paing13/sem.git/actions/workflows/main.yml/badge.svg)
