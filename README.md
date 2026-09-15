@@ -17,6 +17,10 @@
     <img src="https://img.shields.io/github/actions/workflow/status/Paing13/sem/main.yml?branch=master&style=for-the-badge&logo=github&logoColor=white&label=BUILD" alt="Build Status">
   </a>
 
+  <a href="https://github.com/Paing13/sem/actions">
+  <img src="https://img.shields.io/github/actions/workflow/status/Paing13/sem/main.yml?branch=develop&style=for-the-badge&logo=github&logoColor=white&label=DEVELOP%20BUILD" alt="Develop Build">
+  </a>
+
   <a href="https://github.com/Paing13/sem/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Paing13/sem?style=for-the-badge&label=LICENSE" alt="License">
   </a>
